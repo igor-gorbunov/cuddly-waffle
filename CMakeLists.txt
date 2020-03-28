@@ -7,3 +7,4 @@ project ("cuddly-waffle")
 
 # Include sub-projects.
 add_subdirectory ("string-view")
+add_subdirectory ("default-delete-keywords")
